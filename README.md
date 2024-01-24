@@ -1,8 +1,9 @@
 # nostribology
 
-If nostr is to win, it will because of 
+Nostr will win because of:
 1) the other stuff, and
-2) a seamless transition between today's notes clients, and the other stuff.
+2) a seamless transition between today's notes clients, and the other stuff, and
+3) seamless interoperation between any combination of social media clients, and other stuff.
 
 ## tribology
 Tribology is the study of friction between moving parts.
