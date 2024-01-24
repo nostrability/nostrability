@@ -3,7 +3,7 @@
 Nostr will have a shot at winnning because of seamless interoperation between any combination of social media clients, and other stuff.
 
 ## what is nostrability
-The practical documentation of how various nostr apps play together.
+The practical documentation of how various [nostr](https://github.com/nostr-protocol) apps play together.
 
 ## short term objective
 Nostrability's objective is to assess the degree of friction of interoperability between nostr's many moving parts. \
