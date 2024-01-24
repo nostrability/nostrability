@@ -7,13 +7,13 @@ The practical documentation of how various nostr apps play together.
 
 ## short term objective
 Nostrability's objective is to assess the degree of friction of interoperability between nostr's many moving parts. \
-To start, nostrability provides a simple crowdsourcing template for documenting poor or lack of interoperability between nostr apps A and B
+To start, nostrability provides a simple crowdsourcing template for documenting poor or lack of interoperability between nostr apps A and B.
 
 ## longer term objective
 Systematically document enough friction points to where a dev, or "integration engineer" can collect bounties for fixing friction points, or work full time on cross-app integration (e.g. by way of Opensats).
 
 ## non-objective
-Nostrability does not aim to get all apps to implement all NIPs
+Nostrability does not aim to get all apps to implement all NIPs.
 
 ## format
 To start, I will use the github issues functionality. It is not clear to me that this is the best format for reporting & discussion. I am open to suggestions.
