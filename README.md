@@ -5,9 +5,12 @@ Nostr will have a shot at winnning because of seamless interoperation between an
 ## what is nostrability
 The practical documentation of how various nostr apps play together.
 
-## nostrability objective
+## objective
 Nostrability's objective is to assess the degree of friction of interoperability between nostr's many moving parts. \
 To start, nostrability provides a simple crowdsourcing template for documenting poor or lack of interoperability between nostr apps A and B
+
+## non-objective
+Nostrability does not aim to get all apps to implement all NIPs
 
 ## format
 To start, I will use the github issues functionality. It is not clear to me that this is the best format for reporting & discussion. I am open to suggestions.
