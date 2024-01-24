@@ -9,6 +9,9 @@ The practical documentation of how various nostr apps play together.
 Nostrability's objective is to assess the degree of friction of interoperability between nostr's many moving parts. \
 To start, nostrability provides a simple crowdsourcing template for documenting poor or lack of interoperability between nostr apps A and B
 
+## format
+To start, I will use the github issues functionality. It is not clear to me that this is the best format for reporting & discussion. I am open to suggestions.
+
 ## motivation & reference
 Nostr by fiatjaf: https://fiatjaf.com/nostr.html \
 How nostr wins by Pablo F https://youtu.be/qTixqS-W1yo \
