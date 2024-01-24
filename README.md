@@ -12,7 +12,7 @@ To start, nostrability provides a simple crowdsourcing template for documenting 
 ## motivation & reference
 Nostr by fiatjaf: https://fiatjaf.com/nostr.html \
 How nostr wins by Pablo F https://youtu.be/qTixqS-W1yo \
-Nostr's broken interoperability https://youtu.be/v0H13dPceJ0 
+Nostr's broken interoperability Pablo F https://youtu.be/v0H13dPceJ0 
 
 ## contact
 You can find me on nostr https://iris.to/npub1zafcms4xya5ap9zr7xxr0jlrtrattwlesytn2s42030lzu0dwlzqpd26k5
