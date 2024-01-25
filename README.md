@@ -2,6 +2,10 @@
 
 Nostr will have a shot at winnning because of seamless interoperation between any combination of social media clients, and other stuff.
 
+nostr apps as tetris blocks
+https://image.nostr.build/be982bc07274ef9873dbe36819d04565db5b700507adc09d00e463bc4a8669f6.png
+
+
 ## what is nostrability
 The practical documentation of how various [nostr](https://github.com/nostr-protocol) apps play together.
 
