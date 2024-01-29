@@ -17,7 +17,7 @@ Nostrability's objective is to assess the degree of friction of interoperability
 To start, nostrability provides a simple crowdsourcing [template](https://github.com/alltheseas/nostrability/issues) for documenting poor or lack of interoperability between nostr apps A and B.
 
 ## longer term objective
-Systematically document enough friction points to where a dev, or "integration engineer" can collect bounties for fixing friction points, or work full time on cross-app integration (e.g. by way of [Opensats](https://opensats.org)).
+Systematically document enough friction points to where a dev, or "integration engineer" can collect bounties for fixing friction points, or work full time on cross-app integration (e.g. by way of [Opensats](https://opensats.org)). Dev effort can also be used to intelligently, and systematically automate testing of all nostr app A, B ... nostr app N cross-compatibility permutations. 
 
 ## non-objective
 Nostrability does not aim to get all apps to implement all [NIPs](https://github.com/nostr-protocol/nips).
