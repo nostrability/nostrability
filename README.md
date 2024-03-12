@@ -6,6 +6,7 @@ Nostr will have a shot at winnning because of seamless interoperation between an
 
 ## what is nostrability
 The practical documentation of how various [nostr](https://github.com/nostr-protocol) apps play together.
+Two or more nostr apps must be involved to invoke a nostrability report. 
 
 ## in meme form
 
