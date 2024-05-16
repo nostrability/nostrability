@@ -29,7 +29,7 @@ To start, I will use the github [issues](https://github.com/alltheseas/nostrabil
 ## motivation & reference
 Nostr by [fiatjaf](https://njump.me/npub180cvv07tjdrrgpa0j7j7tmnyl2yr6yr7l8j4s3evf6u64th6gkwsyjh6w6): https://fiatjaf.com/nostr.html \
 How nostr wins by [Pablo F](https://njump.me/npub1l2vyh47mk2p0qlsku7hg0vn29faehy9hy34ygaclpn66ukqp3afqutajft) https://youtu.be/qTixqS-W1yo \
-Nostr's broken interoperability [Pablo F](https://njump.me/npub1l2vyh47mk2p0qlsku7hg0vn29faehy9hy34ygaclpn66ukqp3afqutajft) https://youtu.be/v0H13dPceJ0 
+Nostr's broken interoperability [Pablo F](https://njump.me/npub1l2vyh47mk2p0qlsku7hg0vn29faehy9hy34ygaclpn66ukqp3afqutajft) https://youtu.be/v0H13dPceJ0 \
 Nostrability overview https://youtu.be/I3Qld_HXQuM first 13 minutes
 
 ## contact
