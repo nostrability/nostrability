@@ -5,8 +5,8 @@ Nostr will have a shot at winnning because of seamless interoperation between an
 ![nostr apps as tetris blocks](https://image.nostr.build/be982bc07274ef9873dbe36819d04565db5b700507adc09d00e463bc4a8669f6.png)
 
 ## what is nostrability
-The practical documentation of how various [nostr](https://github.com/nostr-protocol) apps play together.
-Two or more nostr apps must be involved to invoke a nostrability report. 
+The practical documentation of how various [nostr](https://github.com/nostr-protocol) apps / relays play together.
+Two or more nostr apps and/or relays must be involved to invoke a nostrability report. 
 
 ## in meme form
 
@@ -15,7 +15,7 @@ memelord credit to [corndalorian](https://njump.me/nevent1qqsdwrlvkkhh8wcl05a7lu
 
 ## short term objective
 Nostrability's objective is to assess the degree of friction of interoperability between nostr's many moving parts. \
-To start, nostrability provides a simple crowdsourcing [template](https://github.com/alltheseas/nostrability/issues) for documenting poor or lack of interoperability between nostr apps A and B.
+To start, nostrability provides a simple crowdsourcing [template](https://github.com/alltheseas/nostrability/issues) for documenting poor or lack of interoperability between nostr apps A and B, nostr app C and nostr relay D, and so on.
 
 ## longer term objective
 Systematically document enough friction points to where a dev, or "integration engineer" can collect bounties for fixing friction points, or work full time on cross-app integration (e.g. by way of [Opensats](https://opensats.org)). Dev effort can also be used to intelligently, and systematically [automate testing](https://github.com/nostrCI) of all nostr app A, B ... nostr app N cross-compatibility permutations. 
