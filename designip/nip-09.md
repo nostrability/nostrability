@@ -8,6 +8,6 @@
 
   ## Open & unanswered design questions
   1. Should the app team warn the user that there is no guarantee anything can be deleted, once posted to nostr?
-  2. If yes, when is the right moment for this? For instane, is it prior the user's first nostr post? 
+  2. If yes, when is the right moment for this? For instance, is it prior the user's first nostr post? 
 
 
