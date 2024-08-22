@@ -8,6 +8,8 @@ Nostr will have a shot at winnning because of seamless interoperation between an
 The practical documentation of how various [nostr](https://github.com/nostr-protocol) apps / relays play together.
 Two or more nostr apps and/or relays must be involved to invoke a nostrability report. 
 
+~13 minute intro video to nostrabilityhttps://iv.ggtyler.dev/watch?v=I3Qld_HXQuM & associated slides https://slides.com/alltheseas/nostrability
+
 ## in meme form
 
 ![image](https://github.com/alltheseas/nostrability/assets/64376233/0f94c4e4-0179-490f-9c68-8e9f9761ec8c)
