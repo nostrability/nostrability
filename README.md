@@ -10,17 +10,19 @@ Two or more nostr apps and/or relays must be involved to invoke a nostrability r
 
 ~13 minute intro video to nostrabilityhttps://iv.ggtyler.dev/watch?v=I3Qld_HXQuM & associated slides https://slides.com/alltheseas/nostrability
 
-## in meme form
+## in meme form (negative interoperability)
 
 ![image](https://github.com/alltheseas/nostrability/assets/64376233/0f94c4e4-0179-490f-9c68-8e9f9761ec8c)
 memelord credit to [corndalorian](https://njump.me/nevent1qqsdwrlvkkhh8wcl05a7lu6w4h5kvfjc66kwst3gdezms8094cxqe7qzyruwd3jrgtc7q5jgqccwylsszmwwxh7r5c2wvpp5lm625fgrx2x2j24d7ly)
 
 ## short term objective
 Nostrability's objective is to assess the degree of friction of interoperability between nostr's many moving parts. \
-To start, nostrability provides a simple crowdsourcing [template](https://github.com/alltheseas/nostrability/issues) for documenting poor or lack of interoperability between nostr apps A and B, nostr app C and nostr relay D, and so on.
+To start, nostrability provides a simple crowdsourcing [template](https://github.com/alltheseas/nostrability/issues) for documenting poor or lack of interoperability between nostr apps A and B, nostr app C and nostr relay D, and so on. /
+Positive nostrability allows for monitoring and advocacy of NIP implementations across many nostr apps. 
 
 ## longer term objective
-Systematically document enough friction points to where a dev, or "integration engineer" can collect bounties for fixing friction points, or work full time on cross-app integration. Dev effort can also be used to intelligently, and systematically [automate testing](https://github.com/nostrCI) of all nostr app A, B ... nostr app N cross-compatibility permutations. 
+Negative interoperability: systematically document enough friction points to where a dev, or "integration engineer" can collect bounties for fixing friction points, or work full time on cross-app integration. Dev effort can also be used to intelligently, and systematically [automate testing](https://github.com/nostrCI) of all nostr app A, B ... nostr app N cross-compatibility permutations. \ 
+Positive interoperability: build the experience using open blocks that was never possible in the corpo-gulag social media BigCo. 
 
 ## non-objective
 Nostrability does not aim to get all apps to implement all [NIPs](https://github.com/nostr-protocol/nips).
