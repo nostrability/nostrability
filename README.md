@@ -19,6 +19,7 @@ memelord credit to [corndalorian](https://njump.me/nevent1qqsdwrlvkkhh8wcl05a7lu
 Nostrability's objective is to assess the degree of friction of interoperability between nostr's many moving parts. \
 To start, nostrability provides a simple crowdsourcing [template](https://github.com/alltheseas/nostrability/issues) for documenting poor or lack of interoperability between nostr apps A and B, nostr app C and nostr relay D, and so on. /
 Positive nostrability allows for monitoring and advocacy of NIP implementations across many nostr apps. 
+Devs are welcome to, and may find using nostrability useful as a platform to request comment from other devs on unvalidated concepts. 
 
 ## longer term objective
 Negative interoperability: systematically document enough friction points to where a dev, or "integration engineer" can collect bounties for fixing friction points, or work full time on cross-app integration. Dev effort can also be used to intelligently, and systematically [automate testing](https://github.com/nostrCI) of all nostr app A, B ... nostr app N cross-compatibility permutations. \ 
